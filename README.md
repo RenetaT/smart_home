@@ -1,8 +1,12 @@
 # Smart Home System
+## Individual coursework
 
-A Python-based smart home management system that provides a GUI for controlling smart devices like Smart Plugs and Smart Doorbells. The system enables users to add devices, edit their properties, toggle their states, and monitor their statuses.
+A Python-based smart home management system that provides a GUI for controlling smart devices
+like Smart Plugs and Smart Doorbells. 
+The system enables users to add devices, edit their properties, 
+toggle their states, and monitor their statuses.
+- **Achieved 83.00 marks for these assessment.**
 
----
 
 ## Features
 
